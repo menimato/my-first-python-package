@@ -4,7 +4,7 @@ This is my first Python package! I created it using [this guide](https://luukvdm
 
 ## License
 
-Copyright 2024 [your name]
+Copyright 2024 Bruno.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
