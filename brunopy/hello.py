@@ -1,3 +1,5 @@
+from emoji import emojize
+
 def hello(name = "world"):
   """hello
   
@@ -16,4 +18,7 @@ def hello(name = "world"):
   --------
   >>> hello('Bruno')
   """
-  print("Hello ", name, "! Welcome to my first Python package!", sep = "")
+  
+  message = f"Hello {name}! Welcome to my first Python package! {emojize(':thumbs_up:')}"
+
+  return message

@@ -13,7 +13,7 @@ except FileNotFoundError:
 # Metadata
 setup(
   name = "brunopy",
-  version = "0.0.0.9000",
+  version = "0.0.0.9001",
   author = "bruno meni",
   author_email = "no no no",
   description = "Toy package for learning how to publish a package.",

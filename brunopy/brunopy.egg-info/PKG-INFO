@@ -1,7 +1,8 @@
 Metadata-Version: 2.1
 Name: brunopy
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Summary: Toy package for learning how to publish a package.
 Author: bruno meni
 Author-email: no no no
 License: Apache 2.0
+Requires-Dist: emoji
