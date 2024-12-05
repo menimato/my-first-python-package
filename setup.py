@@ -12,12 +12,12 @@ except FileNotFoundError:
 
 # Metadata
 setup(
-  name = "Type here the name of your package",
+  name = "brunopy123",
   version = 0.0.0.9000,
-  author = "Type here your name",
-  author_email = "Type here your email",
-  description = "Describe here your package in one sentence",
-  license = "Type here what license your package has",
+  author = "bruno meni",
+  author_email = "no no no",
+  description = "Toy package for learning how to publish a package.",
+  license = "CC",
   packages = find_packages(),
   install_requires = requirements
 )
