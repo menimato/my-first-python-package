@@ -17,7 +17,7 @@ setup(
   author = "bruno meni",
   author_email = "no no no",
   description = "Toy package for learning how to publish a package.",
-  license = "CC",
+  license = "Apache 2.0",
   packages = find_packages(),
   install_requires = requirements
 )
