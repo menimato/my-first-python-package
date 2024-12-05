@@ -11,7 +11,7 @@ jobs:
     - name: install-package
       shell: bash -l {0}
       run: |
-        pip install -e .
+        pip install -e brunopy
     - name: test
       shell: bash -l {0}
       run: |
