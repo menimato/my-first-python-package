@@ -1,0 +1,6 @@
+README.md
+setup.py
+brunopy.egg-info/PKG-INFO
+brunopy.egg-info/SOURCES.txt
+brunopy.egg-info/dependency_links.txt
+brunopy.egg-info/top_level.txt
