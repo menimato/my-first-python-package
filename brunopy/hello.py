@@ -19,6 +19,6 @@ def hello(name = "world"):
   >>> hello('Bruno')
   """
   
-  message = f"Hello {name}! Welcome to my first Python package! {emojize(':thumbs_up:')}"
+  message = f"Hello {name}! Welcome to your first Python package! {emojize(':thumbs_up:')}"
 
   return message
