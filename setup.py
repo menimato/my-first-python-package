@@ -12,7 +12,7 @@ except FileNotFoundError:
 
 # Metadata
 setup(
-  name = "brunopy123",
+  name = "brunopy",
   version = "0.0.0.9000",
   author = "bruno meni",
   author_email = "no no no",
